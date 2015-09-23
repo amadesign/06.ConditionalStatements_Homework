@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\09.PlayWithIntDoubleAndString\bin\Debug\09.PlayWithIntDoubleAndString.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\09.PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\09.PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\09.PlayWithIntDoubleAndString\obj\Debug\09.PlayWithIntDoubleAndString.pdb

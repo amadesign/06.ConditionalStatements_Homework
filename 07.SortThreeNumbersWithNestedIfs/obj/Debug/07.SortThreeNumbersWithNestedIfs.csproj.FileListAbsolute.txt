@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\07.SortThreeNumbersWithNestedIfs\bin\Debug\07.SortThreeNumbersWithNestedIfs.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\07.SortThreeNumbersWithNestedIfs\bin\Debug\07.SortThreeNumbersWithNestedIfs.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.pdb

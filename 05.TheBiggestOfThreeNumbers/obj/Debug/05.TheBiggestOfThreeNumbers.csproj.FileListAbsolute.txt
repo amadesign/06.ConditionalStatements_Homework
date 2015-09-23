@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\16.MagicDates\bin\Debug\16.MagicDates.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\16.MagicDates\bin\Debug\16.MagicDates.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\16.MagicDates\obj\Debug\16.MagicDates.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\16.MagicDates\obj\Debug\16.MagicDates.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\16.MagicDates\obj\Debug\16.MagicDates.pdb

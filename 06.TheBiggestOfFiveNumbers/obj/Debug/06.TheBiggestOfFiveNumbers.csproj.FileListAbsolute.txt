@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\06.TheBiggestOfFiveNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\06.TheBiggestOfFiveNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

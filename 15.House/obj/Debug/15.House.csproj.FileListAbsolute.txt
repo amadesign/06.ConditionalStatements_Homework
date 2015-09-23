@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\15.House\bin\Debug\15.House.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\15.House\bin\Debug\15.House.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\15.House\obj\Debug\15.House.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\15.House\obj\Debug\15.House.pdb

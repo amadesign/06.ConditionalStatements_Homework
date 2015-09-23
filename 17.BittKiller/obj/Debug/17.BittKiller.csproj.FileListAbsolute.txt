@@ -1,0 +1,4 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\17.BittKiller\bin\Debug\17.BittKiller.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\17.BittKiller\bin\Debug\17.BittKiller.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\17.BittKiller\obj\Debug\17.BittKiller.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\17.BittKiller\obj\Debug\17.BittKiller.pdb

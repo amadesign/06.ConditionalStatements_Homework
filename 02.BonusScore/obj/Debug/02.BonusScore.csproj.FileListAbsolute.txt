@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\02.BonusScore\bin\Debug\02.BonusScore.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\02.BonusScore\bin\Debug\02.BonusScore.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\02.BonusScore\obj\Debug\02.BonusScore.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\02.BonusScore\obj\Debug\02.BonusScore.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\02.BonusScore\obj\Debug\02.BonusScore.pdb

@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\14.Pairs\bin\Debug\14.Pairs.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\14.Pairs\bin\Debug\14.Pairs.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\14.Pairs\obj\Debug\14.Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\14.Pairs\obj\Debug\14.Pairs.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\14.Pairs\obj\Debug\14.Pairs.pdb

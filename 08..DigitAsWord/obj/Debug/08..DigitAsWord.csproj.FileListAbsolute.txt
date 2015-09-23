@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\08..DigitAsWord\bin\Debug\_08._.DigitAsWord.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\08..DigitAsWord\bin\Debug\_08._.DigitAsWord.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\08..DigitAsWord\obj\Debug\08..DigitAsWord.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\08..DigitAsWord\obj\Debug\_08._.DigitAsWord.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.ConditionalStatements_Homework\08..DigitAsWord\obj\Debug\_08._.DigitAsWord.pdb
